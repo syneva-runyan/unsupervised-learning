@@ -15,7 +15,7 @@ pip install matplotlib
 
 From there, you can run the algorithms with:
 
-python main.py
+`python main.py`
 
 Each algorithms will then run against the World Cup prediction data set first, and then each algorithm will run agains the Heart Failure Prediction data set.
 
