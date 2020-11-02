@@ -1,7 +1,7 @@
 # Unsupervised Learning
 python version 3.7.3
 
-The code for this assignment can be found in the public repository (here)[]
+The code for this assignment can be found in the public repository (here)[https://github.com/syneva-runyan/unsupervised-learning.git]
 
 The main.py file can be ran to execute the assignments algorithms on both data sets.
 
